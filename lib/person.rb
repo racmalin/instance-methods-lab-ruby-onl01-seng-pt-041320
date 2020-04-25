@@ -1,6 +1,6 @@
 class Person
-end
-ada = Person.new
+# end
+# ada = Person.new
 
 def talk
   puts "Hello World!"
